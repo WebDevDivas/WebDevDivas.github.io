@@ -1,7 +1,99 @@
-Creating your own website can be intimidating at first, especially if you're from a non-technical background.
+30min - 1hr
 
-But what if all it requires is a fundamental change in perspective?
+Creating your own website can be intimidating at first, especially if you come from a non-technical background.
 
-Consider tackling web development like you would tackle learning to cook.
+You might think "I'm not a hacker." You might think "It's too hard for me," or "I don't even know where to begin."
 
-You won't be a master chef
+But what if all that's stopping you is a fundamental difference in perspective?
+
+Think about tackling web development like you would tackle learning to cook.
+
+You won't be a master chef from the get-go -- in fact, you'll probably be pretty terrible at first.
+
+But what is your goal? Are you trying to become a Michelin-rated world-class chef extraordinare? Or are you just trying to figure out how to cook a decent omelette?
+
+As with any skill, you gotta start with the basics. So here they are:
+
+Mindset
+YOU CAN LEARN TO CODE!
+There's all kind of flavors to coding, and we're looking at web development in particular. But at the core, learning to code is a skill like any other skill. If you put the time and effort into learning it, you can pick it up as well as the next guy.
+Remember: You don't have to be brilliant. You just have to be competent. First you have to learn to read the directions. Once you become more comfortable with the directions, then you can start playing around with the ingredients.
+So, get your head in the game. Look in the mirror, and tell yourself:
+I CAN LEARN TO CODE.
+
+Tools
+There are as many tools as there are flavors of coding, which makes picking the right tool just as exhausting as learning to code!!
+So let me make it super simple for you.
+1) GitHub (Web)
+GitHub (and GitHub Pages) offers the unique benefit of providing free domains. That's right -- FREE! This means you can get started and show off your project RIGHT AWAY -- without having to agonize over the logistics of getting your website set up. You can also switch from the free github domain to a paid domain at any time.
+2) GitHub Desktop
+There are a number of ways to publish and edit content on GitHub, but for non-technical users, the easiest tool will be GitHub Desktop, GitHub's very own GUI (graphic user interface). This means you'll be pressing buttons instead of typing in your commands. Super simple, fairly cute.
+3) Atom Text Editor
+GitHub also produces and updates its very own FREE text editor. Atom is a smart text editor that allows you to keep track of entire project folders, so that you can jump from all files in your project directly without having to jump onto Explorer or Finder. You can also customize Atom's features and interface as you get more comfortable with coding, allowing for advanced use. (You probably won't out-grow Atom's features any time soon.)
+4) Windows Explorer/Macintosh Finder
+You can create, edit, and save files using your Atom Text Editor, but you won't be able to delete files off of your repository (project) folder. That being the case, you'll want to know how to find your repository in Explorer or Finder.
+
+NOTE - we will cover the specifics of how to get set up with these tools in a later article. Don't worry about it for now!
+
+Goals
+Before you drive into the nitty-gritty details of creating a website, make yourself a cup of coffee, sit down with a notepad, and start brainstorming.
+Figure out your goals.
+WHY do you want to create a website? Is there a project you'd like to work on? Did you promise your friend that you'd help them out? Do you just want to learn how to code? Do you want to create a portfolio to showcase your technical skills?
+Think in terms of achievable "chunks" or "sprints." What are some of your short-term goals?
+These can include:
+- Creating a home landing page (HTML)
+- Creating a blog with multiple pages
+- Customizing your own look and feel (CSS)
+- Creating interactive features (Javascript)
+You know yourself best, so you have to decide how far you want to take it, and how to evaluate a job well done.
+
+Sharpen Your Eyes
+Make a list of some of the websites you visit regularly. How are their sites structured? Notice their layout, their styles, and their page architecture. What makes a site "good"? -- aesthetically pleasing, functional, responsive. Then consider some websites that you've cringed at in the past. What makes a site "bad"? You don't have to have the whole picture figured out yet, but you can keep it simple and practice observing how others have done their work before you.
+
+Timeline and Deliverables
+Creating a timeline and keeping tabs on your deliverables will help you stay on track with your web development skills. What kind of workload can you handle?
+If you work a full-time job -- do you have the mental and physical energy to be working on a side project? Thinking in these terms will also keep you from biting off far more than you can chew -- and then falling into a pit of despair.
+Scope your projects realistically, and make sure you can achieve your goals, but also make sure that you're not being so lenient and vague that you never get anything done.
+"Some time this year" is probably not a concrete enough deadline.
+"A fully-functioning website by tomorrow" is probably a bit too aggressive.
+
+Mindset - Again
+Anyone can learn to code, but that doesn't mean everyone has to, or even should.
+Before you move forward with a specific project, you should decide first and foremost - IS LEARNING TO CODE RIGHT FOR ME?
+There are plenty of out-of-the-box website-generating services like SquareSpace and WordPress -- so if your only reason for wanting to create a website is to get something up and running QUICK -- maybe it doesn't make sense to put your time and energy into building from scratch.
+HOWEVER, if you're more interested in building a website to gain critical skills and learn about the inner workings of a platform that you navigate day in and day out -- and maybe you also want to sound intelligent when the topic of web development arises -- it could be invaluable to invest a bit of your extra time into building this skill set.
+
+Revisiting the chef metaphor: in this modern-day world, you don't actually have to learn how to cook. Between microwavable meals, fast food, and restaurants, there are plenty of opportunities to grab a bite without that level of skill or interaction.
+
+But these days, coding is growing to be a fundamental skill set on par with cooking. Sure, you don't HAVE to learn -- but if you do take it on yourself to take on this challenge, you will be expanding your opportunities and improving yourself.
+
+And that's really the fundamental reason why this website exists, and why we WebDevDivas are learning how to code.
+
+Not because we have to - but because we want to.
+
+So, take a deep breath, and decide:
+
+Do I want to learn to code?
+
+Does it make sense for me?
+
+Can I face the fact that it'll be challenging, and time-consuming, and (initially) detrimental to my self-esteem?
+
+Does it excite me to think of myself one day as a WebDevDiva?
+
+If you say YES to all these questions - then welcome to the team!
+
+Here's a few helpful timeline items:
+Week 1 - Work through "Getting Started." Scope out my goals and timelines. Make a decision: DO I WANT TO MOVE FORWARD WITH THIS PROJECT?
+
+Week 2 - Think about a project you can work on, and get set up with your tools.
+
+Week 3 - Developing Content - HTML - landing page
+
+Week 4 - Start populating your website. Start writing if you're creating a blog. Start migrating and re-formatting if you're working with existing content.
+
+Week 5 - Look and feel - CSS basics
+
+Week 6 - Evaluate - Am I done? Do I want to Build More Stuff? What else do I want to add? What features do other websites have? What do I want to investigate?
+
+Week 7... - If you're done - pat yourself on the back. If you want to do more - High five! KEEP GOING!!
